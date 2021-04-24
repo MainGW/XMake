@@ -1,0 +1,7 @@
+/Users/wanaoi/home/source.d/TextProjects/C++/XMake/trunk/build/CMakeFiles/rebuild_cache.dir
+/Users/wanaoi/home/source.d/TextProjects/C++/XMake/trunk/build/CMakeFiles/edit_cache.dir
+/Users/wanaoi/home/source.d/TextProjects/C++/XMake/trunk/build/src/CMakeFiles/rebuild_cache.dir
+/Users/wanaoi/home/source.d/TextProjects/C++/XMake/trunk/build/src/CMakeFiles/edit_cache.dir
+/Users/wanaoi/home/source.d/TextProjects/C++/XMake/trunk/build/src/xmake/CMakeFiles/rebuild_cache.dir
+/Users/wanaoi/home/source.d/TextProjects/C++/XMake/trunk/build/src/xmake/CMakeFiles/edit_cache.dir
+/Users/wanaoi/home/source.d/TextProjects/C++/XMake/trunk/build/src/xmake/CMakeFiles/xmake.dir
