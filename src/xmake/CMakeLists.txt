@@ -1,5 +1,0 @@
-set(TARGET_NAME "xmake")
-set(TARGET_INCLUDE ${PROJECT_SOURCE_DIR}/include)
-aux_source_directory(. TARGET_SRCS)
-set(BINARY TRUE)
-include(../compile.cmake)

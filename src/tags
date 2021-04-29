@@ -1,0 +1,7 @@
+HandlerColorDef	Handler.h	/^	}HandlerColorDef;$/
+Mmain.cpp	main.cpp	/^int main(int argc, char *argv[])$/
+aux_source_directory	CMakeLists.txt	/^aux_source_directory(. TARGET_SRCS)$/
+endif	compile.cmake	/^endif(LIB_SHARE)$/
+include_directories	compile.cmake	/^include_directories(${TARGET_INCLUDE})$/
+set	CMakeLists.txt	/^set(TARGET_NAME "xmake")$/
+xmake	Makefile	/^bin_PROGRAMS = xmake$(EXEEXT)$/
