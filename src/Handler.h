@@ -22,6 +22,7 @@ namespace xmake
 			Handler();
 			Handler(FILE *stdput);
 			~Handler();
+<<<<<<< HEAD
 			void PutInfo(const char *message);
 			void Die(const char *message);
 			void Warning(const char *message);

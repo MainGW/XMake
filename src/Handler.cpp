@@ -23,6 +23,7 @@ namespace xmake
 	{
 		
 	}
+<<<<<<< HEAD
 	void Handler::ColorPrint(const char *msg, HandlerColorDef ftColor, HandlerColorDef bgColor)
 	{
 		fprintf(this->stdput, "\033[%d;%dm%s\033[0m", bgColor+40, ftColor+30, msg);
@@ -34,6 +35,7 @@ namespace xmake
 		ColorPrint("]");
 		ColorPrint(message, BLUE);
 	}
+
 
 	void Handler::Die(const char *message)
 	{

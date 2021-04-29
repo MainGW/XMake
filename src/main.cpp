@@ -12,6 +12,6 @@ int main(int argc, char *argv[])
 {
 	xmake::Handler h;
 	h.Die("Fatal Error!\n");
-	h.Warning("Ftp!\n");
+	h.Warning("Ftp!\n");r
 	return 0;
 }
